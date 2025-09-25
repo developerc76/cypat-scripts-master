@@ -1,6 +1,10 @@
 Team Members: 
 
-rhong (Cisco), vmadala (Server), [sarora](https://github.com/shakarora) (Linux), [jbhatia](https://github.com/developerc76) (Linux), [lye](http://github.com/person613) (Windows), nparra (Sub)
+Current
+
+* rhong (Cisco), vmadala (Server), [sarora](https://github.com/shakarora) (Linux), [jbhatia](https://github.com/developerc76) (Linux), [athalla](http://github.com/skyr1ce) (Windows), nparra (Sub)
+
+17-2733 Only: [lye](http://github.com/person613)
 
 This is the checklist in the order things should be done, based on the vulnerabilities from Ubuntu 22.04 in CyberPatriot XVII State Round: 
 
